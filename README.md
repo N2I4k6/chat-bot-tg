@@ -51,7 +51,7 @@
 
 ### 1. Вход в приложение
 
-1. Откройте приложение в браузере по ссылке:[localhost:3000](http://localhost:3000/).
+1. Откройте приложение в браузере по ссылке: [chat-bot-tg.vercel.app](https://chat-bot-tg.vercel.app/).
 2. Введите:
    - **`idInstance`** — из личного кабинета GREEN-API
    - **`apiTokenInstance`** — из личного кабинета GREEN-API
